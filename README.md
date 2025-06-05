@@ -1,6 +1,6 @@
 # Treinamento para OBI - Programação Nível Sênior
 
-![Logo OBI](https://obmep.net.br/wp-content/uploads/2024/07/obi-olimpiada-inscrever.png)
+<img src="https://obmep.net.br/wp-content/uploads/2024/07/obi-olimpiada-inscrever.png" alt="Logo OBI" width="150"/>
 
 ## 🎯 Objetivo
 
